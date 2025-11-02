@@ -8,14 +8,13 @@ Este repositório documenta minha jornada e progresso no curso de Python que est
 ## 📚 Sobre o Curso
 
 * **Plataforma:** Udemy
-* **Nome do Curso:** `[INSERIR O NOME EXATO DO CURSO AQUI]`
-* **Instrutor:** `[INSERIR NOME DO INSTRUTOR]`
-* **Link para o Curso:** `[COLE O LINK DO CURSO AQUI (OPCIONAL)]`
+* **Nome do Curso:** `Curso de Python 3 do básico ao avançado - com projetos reais`
+* **Instrutor:** `Otávio Miranda`
+* **Link para o Curso:** `https://www.udemy.com/share/101rZm3@Fofbdg1ANqxvL5Vd2oHygUUgMhwTsxBndZ5NuxkhbkK2SPtSszZSmOS0_2T4H1i4gw==/`
 
 ## 🚀 Meu Progresso
 
 * **Status:** Em andamento ⏳
-* **Última Atualização:** Aula 41
 
 ## 📂 Estrutura do Repositório
 
